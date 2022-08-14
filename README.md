@@ -16,7 +16,7 @@
 
 [![flutter](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Yaroslav_Apple)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Yaroslav GitHub stats](https://github-readme-stats.vercel.app/api?theme=synthwave?username=anuraghazra&count_private=true&show_icons=true)
 
 
 
