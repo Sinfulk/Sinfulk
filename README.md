@@ -1,15 +1,16 @@
-Привет! Я - Ярослав, fullstack/frontend разработчик!
+### Привет! Я - Ярослав, fullstack/frontend разработчик!
 
-about me
+Я занимаюсь разработкой больше года, имею опыт реализации разноплановых проектов.
 
-lenguages and tools
+### Мой стек:
+
 ![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![flutter](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![flutter](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
 ![flutter](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
-![flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)
+![flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=24,27,255)
 ![flutter](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
-![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=PostgreSQL)
+![flutter](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=PostgreSQL)
 
 
 
