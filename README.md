@@ -8,7 +8,7 @@
 ![flutter](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![flutter](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=810092)
 ![flutter](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
-![flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=4bff)
+![flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1bee)
 ![flutter](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![flutter](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=PostgreSQL)
 
@@ -16,7 +16,7 @@
 
 [![flutter](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Yaroslav_Apple)
 
-![Yaroslav GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinfulk&count_private=true&theme=dark&show_icons=true)
+![Yaroslav GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinfulk&count_private=true&theme=synthwave&show_icons=true)
 
 
 
