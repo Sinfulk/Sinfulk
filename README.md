@@ -3,7 +3,7 @@
 about me
 
 lenguages and tools
-![flutter](https://img.shields.io/badge/JavaScript-black)
+![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javaScript)
 follof me
 
 
