@@ -3,8 +3,12 @@
 about me
 
 lenguages and tools
-![flutter](https://img.shields.io/badge/black?style=for-the-badge&logo=javaScript)
-follof me
+![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=React)
+![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Redux)
+![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Node.js)
+![flutter](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=SQL)
+
 
 
 
