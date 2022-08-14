@@ -8,7 +8,7 @@
 ![flutter](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![flutter](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
 ![flutter](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
-![flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=24,27,255)
+![flutter](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=181bff)
 ![flutter](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
 ![flutter](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=PostgreSQL)
 
