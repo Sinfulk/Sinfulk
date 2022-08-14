@@ -1,3 +1,18 @@
+Привет! Я - Ярослав, fullstack/frontend разработчик!
+
+about me
+
+lenguages and tools
+![flutter](https://img.shields.io/badge/JavaScript-black)
+follof me
+
+
+
+
+
+
+
+<!-- 
 ### Hi there 👋
 
 <!--
@@ -13,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
